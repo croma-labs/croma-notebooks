@@ -1,0 +1,103 @@
+{
+  "found": true,
+  "tariff_code": "2711110000",
+  "checked_at": "2026-10-30T03:36:27.085Z",
+  "served_from": "copy",
+  "tariff": {
+    "tariff_code": "2711110000",
+    "chapter": "27",
+    "heading": "2711",
+    "hs_code": "271111",
+    "description": "Gas natural",
+    "import_regime": "LIBRE",
+    "requires_import_license": false,
+    "status": "Activo",
+    "legal_basis": "Decreto 1881 DE 2021-12-30",
+    "license_validity_months": 6,
+    "note": null,
+    "approvals_regulation": "CIRCULAR 004 DE 08 MARZO DE 2024",
+    "requires_approvals": true,
+    "authorities": [
+      {
+        "code": "MINENERGIA",
+        "name": "Ministerio de Minas y Energía"
+      }
+    ],
+    "approvals": [
+      {
+        "authority": "MINENERGIA",
+        "authority_name": "Ministerio de Minas y Energía",
+        "description": "Gas Natural Licuado",
+        "control": "VB",
+        "prior_requirement": null,
+        "prior_requirement_description": null,
+        "legal_basis": "Ley 939 de 2004 y el decreto 1073 de 2015",
+        "marginal_notes": null,
+        "observation": null,
+        "group": null
+      }
+    ],
+    "minimum_descriptions": [
+      {
+        "authority": "MinCIT/DIAN",
+        "control": "DM",
+        "control_description": "Cumplimiento DM",
+        "legal_basis": "Resolución 57 DE 2015-04-13"
+      }
+    ],
+    "minimum_description_sections": [
+      {
+        "title": null,
+        "fields": [
+          {
+            "label": "Producto",
+            "guidance": "Ejemplo: Hulla, aceites de petróleo, vaselina, preparación lubricante, GLP etc."
+          },
+          {
+            "label": "Composición",
+            "guidance": "Ejemplo: 26% de base lubricante parafínica, 35% de base lubricante pesada, base nafténica, colorante, aditivo, etc."
+          },
+          {
+            "label": "Origen",
+            "guidance": "Ejemplo: alquitrán de hulla, destilación de petróleo, de asfalto, etc."
+          },
+          {
+            "label": "Aspecto físico",
+            "guidance": "Ejemplo: Polvo, líquido, viscoso, etc."
+          },
+          {
+            "label": "Contenido de materias volátiles (partida 27.01)",
+            "guidance": "Ejemplo: 12 % de materia volátil."
+          },
+          {
+            "label": "Porcentaje destilado y temperatura de destilación (para las subpartidas desde la 2710.12.11 a la 2710.19.39)",
+            "guidance": "Ejemplo: mezcla de hidrocarburos acíclicos saturados, que destilan 100% a 179oC, etc."
+          },
+          {
+            "label": "Tipo de empaque",
+            "guidance": "Ejemplo: frascos, latas, granel, etc., indicando su contenido en peso o volumen."
+          },
+          {
+            "label": "Uso",
+            "guidance": "Ejemplo: obtención de solventes, productos desengrasantes, adhesivos, materia prima para la fabricación de electrodos, productos de moldeo, etc."
+          },
+          {
+            "label": "Marca",
+            "guidance": "Si tiene."
+          },
+          {
+            "label": "Nota",
+            "guidance": "Para la partida 27.07 la composición debe ser expresada en porcentaje en peso."
+          },
+          {
+            "label": "Ejemplo",
+            "guidance": "porcentaje en peso de benceno, porcentaje en peso de tolueno, porcentaje en peso de xileno o porcentaje en peso de naftaleno."
+          }
+        ]
+      }
+    ],
+    "minimum_description_text": "Producto: Ejemplo: Hulla, aceites de petróleo, vaselina, preparación lubricante, GLP etc.,Composición: Ejemplo: 26% de base lubricante parafínica, 35% de base lubricante pesada, base nafténica, colorante, aditivo, etc.,Origen: Ejemplo: alquitrán de hulla, destilación de petróleo, de asfalto, etc.,Aspecto físico: Ejemplo: Polvo, líquido, viscoso, etc.,Contenido de materias volátiles (partida 27.01): Ejemplo: 12 % de materia volátil.,Porcentaje destilado y temperatura de destilación (para las subpartidas desde la 2710.12.11 a la 2710.19.39): Ejemplo: mezcla de hidrocarburos acíclicos saturados, que destilan 100% a 179oC, etc.,Tipo de empaque: Ejemplo: frascos, latas, granel, etc., indicando su contenido en peso o volumen.,Uso: Ejemplo: obtención de solventes, productos desengrasantes, adhesivos, materia prima para la fabricación de electrodos, productos de moldeo, etc.,Marca: Si tiene.,Nota: Para la partida 27.07 la composición debe ser expresada en porcentaje en peso.,Ejemplo: porcentaje en peso de benceno, porcentaje en peso de tolueno, porcentaje en peso de xileno o porcentaje en peso de naftaleno.",
+    "additional_information": "Para descripción de la mercancia en las solicitudes de registros y licencias de importación, por favor tener en cuenta lo estipulado en el artículo 3 del decreto 925 de 2013.\n\nPara vigencias especiales se tendra en cuenta los dispuesto en los parágrafos 1 y 2 del artículo 6 del decreto 925 de 2013",
+    "checked_at": "2026-10-30T03:36:27.085Z"
+  }
+}

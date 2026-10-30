@@ -1,0 +1,203 @@
+{
+  "found": true,
+  "tariff_code": "8703809000",
+  "checked_at": "2026-10-30T03:37:09.421Z",
+  "served_from": "copy",
+  "tariff": {
+    "tariff_code": "8703809000",
+    "chapter": "87",
+    "heading": "8703",
+    "hs_code": "870380",
+    "description": "Los demás vehículos automoviles, propulsados únicamente con motor électrico.",
+    "import_regime": "LIBRE",
+    "requires_import_license": false,
+    "status": "Activo",
+    "legal_basis": "Decreto 1881 DE 2021-12-30",
+    "license_validity_months": 6,
+    "note": null,
+    "approvals_regulation": "CIRCULAR 004 DE 08 MARZO DE 2024",
+    "requires_approvals": true,
+    "authorities": [
+      {
+        "code": "MINTRA",
+        "name": "Ministerio de Transporte"
+      },
+      {
+        "code": "SUPERVIGILANCIA",
+        "name": "Superintendencia de Vigilancia y Seguridad Privada"
+      },
+      {
+        "code": "GRUPOICA",
+        "name": "Instituto Colombiano Agropecuario (ICA)"
+      },
+      {
+        "code": "ANLA",
+        "name": "Autoridad Nacional de Licencias Ambientales (ANLA)"
+      }
+    ],
+    "approvals": [
+      {
+        "authority": "MINTRA",
+        "authority_name": "Ministerio de Transporte",
+        "description": "Los demás vehículos, propulsados únicamente con motor eléctrico: Los demás",
+        "control": "VB",
+        "prior_requirement": "FTH",
+        "prior_requirement_description": "Ficha Tecnica de Homologacion",
+        "legal_basis": "Leyes 336/1996 y 769/2002. Resoluciones: 5443/2009,2424/1995,3545/2009,4100/2004,4959/2006,5646/2009,5967/2009,3752/2015,4200/2016,20223040022175/2022.",
+        "marginal_notes": "Únicamente cuando se destinen al servicio público.",
+        "observation": null,
+        "group": null
+      },
+      {
+        "authority": "SUPERVIGILANCIA",
+        "authority_name": "Superintendencia de Vigilancia y Seguridad Privada",
+        "description": "Los demás vehículos automóviles, propulsados únicamente con motor eléctrico.",
+        "control": "VB",
+        "prior_requirement": "RR o CVB o VB",
+        "prior_requirement_description": "Resolución de registro (RR), Certificación de visto bueno (CVB) o Visto Bueno (VB)",
+        "legal_basis": "Artículo 53 del Decreto Ley 356 de 1994.",
+        "marginal_notes": "Únicamente cuando sean blindados o con protección antibalas.",
+        "observation": null,
+        "group": null
+      },
+      {
+        "authority": "GRUPOICA",
+        "authority_name": "Instituto Colombiano Agropecuario (ICA)",
+        "description": "- - Los demás",
+        "control": "VB",
+        "prior_requirement": "DRFI",
+        "prior_requirement_description": null,
+        "legal_basis": "Resolución ICA 1558 de 2010 Resolucion ICA 24690 de 2018",
+        "marginal_notes": "Aplica para usados",
+        "observation": null,
+        "group": "Agrícola"
+      },
+      {
+        "authority": "ANLA",
+        "authority_name": "Autoridad Nacional de Licencias Ambientales (ANLA)",
+        "description": "Los demas vehiculos, propulsados unicamente con motor eléctrico. Los demás",
+        "control": "VB",
+        "prior_requirement": "CEPD y visto bueno por Protoclo de Montreal",
+        "prior_requirement_description": "Certificado de Emisiones por Prueba Dinámica (CEPD)",
+        "legal_basis": "Resolución 0762 de 2022, modificada por la Resolución 0683 de 2026 y la Resolución 1015 de 2026.",
+        "marginal_notes": "Excepción: Cuando NO cuente con sistemas de refrigeración y/o aire acondicionado.",
+        "observation": "Las modificaciones introducidas por la Resolución 0683 de 2026 y la Resolución 1015 de 2026 entrarán en vigor a partir del 31 de diciembre de 2026.",
+        "group": null
+      }
+    ],
+    "minimum_descriptions": [
+      {
+        "authority": "MinCIT/DIAN",
+        "control": "DM",
+        "control_description": "Cumplimiento DM",
+        "legal_basis": "Resolución 57 DE 2015-04-13"
+      }
+    ],
+    "minimum_description_sections": [
+      {
+        "title": null,
+        "fields": [
+          {
+            "label": "Producto (clase de vehículo)",
+            "guidance": "Ejemplo: automóvil, campero, tractor, cuatrimoto, etc."
+          },
+          {
+            "label": "Marca",
+            "guidance": null
+          },
+          {
+            "label": "Línea o referencia",
+            "guidance": "Número VIN del vehículo, número de serie o número de chasis:"
+          },
+          {
+            "label": "Número serial motor",
+            "guidance": null
+          },
+          {
+            "label": "Año del modelo",
+            "guidance": null
+          },
+          {
+            "label": "Año de fabricación",
+            "guidance": null
+          },
+          {
+            "label": "Tipo de dirección",
+            "guidance": "Ejemplo: mecánica, hidráulica, etc."
+          },
+          {
+            "label": "Tipo de motor",
+            "guidance": "Ejemplo: eléctrico, encendido por chispa, encendido por compresión, etc."
+          },
+          {
+            "label": "Tipo de combustible",
+            "guidance": "Ejemplo: gas, diésel, gasolina, etc."
+          },
+          {
+            "label": "Cilindrada (excepto vehículos eléctricos)",
+            "guidance": "En cm³ Número de cilindros (Excepto vehículos eléctricos):"
+          },
+          {
+            "label": "Disposición del motor",
+            "guidance": "Ejemplo: en línea, en V, etc."
+          },
+          {
+            "label": "Potencia",
+            "guidance": "en HP."
+          },
+          {
+            "label": "Número de la ficha de homologación",
+            "guidance": "Si aplica."
+          },
+          {
+            "label": "Tipo de caja",
+            "guidance": "si aplica. Ejemplo: mecánica, automática, triptónica o secuencial, etc."
+          },
+          {
+            "label": "Número de velocidades",
+            "guidance": "si aplica. Ejemplo: 5 adelante y una marcha atrás, 4 adelante y una marcha atrás, etc."
+          },
+          {
+            "label": "Tipo de tracción",
+            "guidance": "Ejemplo: sencilla, doble, etc."
+          },
+          {
+            "label": "Número de ejes",
+            "guidance": null
+          },
+          {
+            "label": "Número de pasajeros (para vehículos de transporte de pasajeros, o a su vez de pasajeros y carga, incluye el conductor)",
+            "guidance": null
+          },
+          {
+            "label": "Número del certificado de emisiones por prueba dinámica",
+            "guidance": "si requiere certificado de emisiones por prueba dinámica."
+          },
+          {
+            "label": "Color",
+            "guidance": null
+          },
+          {
+            "label": "Peso total con carga máxima",
+            "guidance": "Ejemplo 4.570 kg, 3 toneladas, etc."
+          },
+          {
+            "label": "Número de puertas (incluida la del conductor)",
+            "guidance": null
+          },
+          {
+            "label": "Tipo de carrocería (para las partidas de la 87.02 a 87.05)",
+            "guidance": "Ejemplo: furgón, estacas, volco, etc. (si es automóvil, sedan, coupe, etc. para camión: estacas, furgón, etc.)"
+          },
+          {
+            "label": "Nota",
+            "guidance": "Además de lo anterior, para los vehículos que se clasifiquen en la partida 87.03 que tengan a la vez funciones de bajo y tracción en las cuatro ruedas, deberá indicarse en la descripción de la declaración de importación que se cumplen estas dos condiciones, en cuyo caso también se deberá informar la altura de la carcasa de la diferencial al piso."
+          }
+        ]
+      }
+    ],
+    "minimum_description_text": "Producto (clase de vehículo): Ejemplo: automóvil, campero, tractor, cuatrimoto, etc.,Marca:,Línea o referencia:,Número VIN del vehículo, número de serie o número de chasis:,Número serial motor:,Año del modelo:,Año de fabricación:,Tipo de dirección: Ejemplo: mecánica, hidráulica, etc.,Tipo de motor: Ejemplo: eléctrico, encendido por chispa, encendido por compresión, etc.,Tipo de combustible: Ejemplo: gas, diésel, gasolina, etc.,Cilindrada (excepto vehículos eléctricos): En cm³ Número de cilindros (Excepto vehículos eléctricos):,Disposición del motor: Ejemplo: en línea, en V, etc.,Potencia: en HP.,Número de la ficha de homologación: Si aplica.,Tipo de caja: si aplica. Ejemplo: mecánica, automática, triptónica o secuencial, etc.,Número de velocidades: si aplica. Ejemplo: 5 adelante y una marcha atrás, 4 adelante y una marcha atrás, etc.,Tipo de tracción: Ejemplo: sencilla, doble, etc.,Número de ejes:,Número de pasajeros (para vehículos de transporte de pasajeros, o a su vez de pasajeros y carga, incluye el conductor):,Número del certificado de emisiones por prueba dinámica: si requiere certificado de emisiones por prueba dinámica.,Color:,Peso total con carga máxima: Ejemplo 4.570 kg, 3 toneladas, etc.,Número de puertas (incluida la del conductor):,Tipo de carrocería (para las partidas de la 87.02 a 87.05): Ejemplo: furgón, estacas, volco, etc. (si es automóvil, sedan, coupe, etc. para camión: estacas, furgón, etc.),Nota: Además de lo anterior, para los vehículos que se clasifiquen en la partida 87.03 que tengan a la vez funciones de bajo y tracción en las cuatro ruedas, deberá indicarse en la descripción de la declaración de importación que se cumplen estas dos condiciones, en cuyo caso también se deberá informar la altura de la carcasa de la diferencial al piso.",
+    "additional_information": "Para descripción de la mercancia en las solicitudes de registros y licencias de importación, por favor tener en cuenta lo estipulado en el artículo 3 del decreto 925 de 2013.\n\nPara vigencias especiales se tendra en cuenta los dispuesto en los parágrafos 1 y 2 del artículo 6 del decreto 925 de 2013",
+    "checked_at": "2026-10-30T03:37:09.421Z"
+  }
+}
