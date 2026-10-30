@@ -20,7 +20,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-Sin llave, cada notebook lee los CSV de su carpeta `data/`: la foto de los datos que usó el artículo. Con llave, consulta la API y los actualiza:
+Sin API Key, cada notebook lee los CSV de su carpeta `data/`: la foto de los datos que usó el artículo. Con API Key, consulta la API y los actualiza:
 
 ```bash
 export CROMA_API_KEY=...   # consíguela en https://usecroma.com
