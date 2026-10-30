@@ -1,14 +1,14 @@
 # Croma notebooks
 
-Análisis económicos con datos oficiales de gobierno, reproducibles de principio a fin con la [API de Croma](https://usecroma.com). Cada carpeta es un número del newsletter de Croma: el notebook con el análisis completo, los datos que usó y las gráficas.
+Análisis económicos con datos oficiales de gobierno, reproducibles de principio a fin con la [API de Croma](https://usecroma.com). Cada carpeta es un número del [newsletter de Croma](https://usecroma.substack.com): el notebook con el análisis completo, los datos que usó y las gráficas.
 
 *Economic analyses built on official government data, reproducible end to end with the Croma API. One folder per newsletter issue.*
 
 ## Números
 
-| Fecha | Número | Fuentes |
-|---|---|---|
-| Octubre 2026 | [Tesla ya importa más que Toyota: qué está comprando Colombia en 2026](2026-10-importadores/analisis.ipynb) | DIAN (directorio de importadores), VUCE |
+| Fecha | Número | Notebook | Fuentes |
+|---|---|---|---|
+| Octubre 2026 | [Tesla ya importa más que Toyota: qué está comprando Colombia en 2026](https://usecroma.substack.com/p/tesla-ya-importa-mas-que-toyota-que) | [analisis.ipynb](2026-10-importadores/analisis.ipynb) | DIAN (directorio de importadores), VUCE |
 
 ## Cómo correrlo
 
