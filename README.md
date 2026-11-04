@@ -8,7 +8,7 @@ Análisis económicos con datos oficiales de gobierno, reproducibles de principi
 
 | Fecha | Número | Notebook | Fuentes |
 |---|---|---|---|
-| Noviembre 2026 | Qué contrata el Estado cuando contrata inteligencia artificial | [analisis.ipynb](2026-11-ia-estado/analisis.ipynb) | SECOP I y II, Función Pública (Ley 996 de 2005) |
+| Noviembre 2026 | [Qué contrata el Estado cuando contrata inteligencia artificial](https://usecroma.substack.com/p/que-contrata-el-estado-cuando-contrata) | [analisis.ipynb](2026-11-ia-estado/analisis.ipynb) | SECOP I y II, Función Pública (Ley 996 de 2005) |
 | Octubre 2026 | [Tesla ya importa más que Toyota: qué está comprando Colombia en 2026](https://usecroma.substack.com/p/tesla-ya-importa-mas-que-toyota-que) | [analisis.ipynb](2026-10-importadores/analisis.ipynb) | DIAN (directorio de importadores), VUCE |
 
 ## Cómo correrlo
