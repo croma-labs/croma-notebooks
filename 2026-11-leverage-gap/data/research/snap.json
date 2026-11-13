@@ -1,0 +1,39 @@
+{
+ "query": "What is Snap's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Snap most recently reported 977 million monthly active users (MAUs) for the quarter ended September 30, 2026, in its Q3 2026 financial results press release / accompanying materials [1][2]. Snap most recently reported 4,540 full-time employees for the quarter ended September 30, 2026 (full-time; excluding part-time, contractors, and temporary personnel), in the same Q3 2026 supplemental financial information table [1].",
+ "sources": [
+  {
+   "title": "Snap Inc. - Snap Inc. Announces Third Quarter 2026 Financial Results",
+   "url": "https://investor.snap.com/news/news-details/2026/Snap-Inc--Announces-Third-Quarter-2026-Financial-Results/default.aspx"
+  },
+  {
+   "title": "Snap Inc. (via Public) / Quarterly Report for Quarter Ending September 30, 2026 (Form 10-Q)",
+   "url": "https://ebs.publicnow.com/view/D06990585463D293F5BDF713932695692C5E9DE8"
+  },
+  {
+   "title": "snapincq32026preparedrem",
+   "url": "https://www.sec.gov/Archives/edgar/data/1564408/000156440826000063/snapincq32026preparedrem.htm"
+  },
+  {
+   "title": "Snap (SNAP) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/snap-snap-q3-earnings-taking-000003271.html"
+  },
+  {
+   "title": "Snap Earnings Call Highlights Profit and Ad Momentum - TipRanks.com",
+   "url": "https://www.tipranks.com/news/company-announcements/snap-earnings-call-highlights-profit-and-ad-momentum"
+  },
+  {
+   "title": "Snap Will Stop Reporting Daily Users in 2027. Its 92 Million North Americans Explain Why | TIKR.com",
+   "url": "https://www.tikr.com/blog/snap-will-stop-reporting-daily-users-in-2027-its-92-million-north-americans-explain-why"
+  },
+  {
+   "title": "Snap posts Q2 2026 earnings beat on improving ad sales",
+   "url": "https://qz.com/snap-q2-2026-earnings-ad-sales-080426"
+  },
+  {
+   "title": "Snap posts 19% revenue growth in Q2 2026 | Mediaweek",
+   "url": "https://www.mediaweek.com.au/snap-posts-19-revenue-growth-as-free-cash-flow-hits-record-high"
+  }
+ ],
+ "pages_analyzed": 8
+}

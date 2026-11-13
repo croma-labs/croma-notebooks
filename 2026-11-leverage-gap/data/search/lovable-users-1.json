@@ -1,0 +1,84 @@
+{
+ "results": [
+  {
+   "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+   "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees | TechCrunch",
+   "published_at": "2026-03-11T21:40:49.000Z",
+   "author": "Anna Heim",
+   "highlights": [
+    "That overarching message is one of the factors that have helped Lovable attract some 8 million users and become a unicorn in less than a year after its launch. But the prospect that it could also secure enterprise dollars likely played a key role in boosting its valuation to $6.6 billion.\n\nMore than half of Fortune 500 companies are using Lovable to “supercharge creativity,” co-founder and CEO Anton Osika declared at Web Summit last November. The company has added a range of dedicated features — often security-related — to convince businesses to use it for more than prototyping and keep them from canceling over time.\n\n...\n\nIts most recent user spike was tied to a specific promotion — Lovable’s SheBuilds initiative for International Women’s Day on March 8, when the whole platform was free for one day. “We saw various records set,” the company told TechCrunch. “One we’re most proud of is that over 500,000 projects were built or updated on Lovable that day (compared to a typical daily average of [approximately] 200,000).”\n\nAlso notable is the fact that Lovable achieved $400 million ARR with only 146 full-time employees, as chief revenue officer Ryan Meadows told Business Insider. The company now plans to increase its headcount — and there’s room for it. Its recently inaugurated space in Stockholm has space for 300 people, and the company is also hiring in Boston, London, New York, San Francisco, and remotely."
+   ],
+   "score": null
+  },
+  {
+   "url": "https://valueaddvc.com/blog/lovable-vibe-coding-app-builder-company-deep-dive",
+   "title": "Lovable Deep Dive 2026: $13.3B Valuation, $600M+ ARR",
+   "published_at": "2026-10-29T20:03:56.000Z",
+   "author": "Trace Cohen",
+   "highlights": [
+    "## Company Snapshot\n\n$13.3B up from $6.6B in Dec 2025 Valuation (Aug 2026)\n\n~$952.5M across 5 rounds since 2024 Total funding raised\n\n2023 Stockholm, Sweden Founded\n\n$600M+ up from $200M in Nov 2025 Run-rate revenue (Sep 2026)\n\nFigures compiled from tech.eu, TechCrunch, Bloomberg, Dealroom, and TheNextWeb reporting, as of October 2026. Lovable is private and does not publish audited financials.\n\nFounders\n\nAnton Osika (CEO), Fabian Hedin (CTO)\n\nHQ\n\nStockholm, Sweden\n\nPublic launch\n\nNovember 2024 (as Lovable, from the GPT Engineer project)\n\nHeadcount\n\n146 confirmed Feb 2026; LinkedIn-derived trackers put it over 1,000 by Sept 2026 — no current figure confirmed by the company\n\nKey investors\n\nMenlo Ventures, EQT Scaleup Europe Fund, Accel, CapitalG, Tencent\n\nSector\n\nAI / Vibe Coding / App Builder\n\nProjects created\n\n60M+ as of Aug 2026, per company disclosure\n\nReported users\n\n8M+ as of Nov 2025 (no updated count disclosed since)\n\n...\n\nLovable is a “vibe coding” platform: a user describes what they want in plain language, and Lovable's AI generates a working web app — frontend, backend, and a connected Supabase database — then deploys it to a live URL within minutes. The user keeps iterating by chatting with the AI rather than writing code directly, with a visual edit mode for people who want to tweak layout without prompting.\n\n...\n\nThat enterprise push shows up in the numbers co-founder Fabian Hedin gave on stage at HumanX Amsterdam on September 24, 2026: roughly two-thirds of the Fortune 500 now use Lovable in some capacity, and apps built on the platform draw on the order of 1 billion visits a month. Those are the kind of adoption figures that answer the standard bear case against vibe-coding tools — that they are consumer toys with no durable enterprise demand — even though neither figure has been independently audited.\n\n...\n\nHeadcount itself is the one figure with no reliable current number: the 146-employee count is the last company-linked figure on record, from February 2026, while LinkedIn-derived workforce trackers (TipRanks, Autobound) estimated headcount above 1,000 by August and September 2026. Coverage of the Series C separately cited a stated plan to grow headcount roughly 50%, which doesn't reconcile cleanly with either number — so the honest answer is that Lovable's current headcount is not precisely known from public sources.\n\n...\n\n- - Valuation climbed from $1.8B to $13.3B in thirteen months on a private market with no public comparable to check the multiple against.\n- - Headcount, user counts, and even the Fortune 500 adoption figure all rest on company-disclosed numbers with no independent audit — the 8M-user figure hasn't been updated since late 2025.\n- - No disclosed gross margin or path to profitability; a platform whose heaviest users drive the most revenue through credit top-ups also carries the highest usage-based hosting cost.\n- - Lovable has had recurring security-disclosure incidents in 2026, including walking back an initial denial of a data-exposure report in April — a pattern that matters more as enterprise customers run sensitive internal tools on the platform.\n- - Replit is growing from a lower base and explicitly targeting $1B ARR by year-end 2026, which would narrow Lovable's revenue lead if it happens."
+   ],
+   "score": null
+  },
+  {
+   "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/",
+   "title": "Lovable says it's nearing 8 million users as the year-old AI coding startup eyes more corporate employees | TechCrunch",
+   "published_at": "2025-11-10T23:53:01.000Z",
+   "author": "Connie Loizos",
+   "highlights": [
+    "Lovable, the Stockholm-based AI coding platform, is closing in on 8 million users, CEO Anton Osika told this editor during a sit-down on Monday, a major jump from the 2.3 million active users number the company shared in July. Osika said the company — which was founded almost exactly one year ago — is also seeing “100,000 new products built on Lovable every single day.”"
+   ],
+   "score": null
+  },
+  {
+   "url": "https://www.demandsage.com/lovable-statistics/",
+   "title": "Lovable Statistics (2026) – Number of Users & Revenue Data",
+   "published_at": null,
+   "author": null,
+   "highlights": [
+    "Lovable is one of the fastest-growing vibe coding platforms with over 8 million users. According to the platform, 1 million projects are created every week, and **over 60 million projects have been created to date. **\n\nLovable is now valued at $13.3 billion and was named one of the TIME100 most influential companies in 2026.\n\nNow, Lovable has 8 million users, and over 60 million projects have been created to date. We have compiled all the available Lovable statistics and reports since its launch. \n\n## Lovable Statistics 2026 – Top Picks \n\n- Lovable recorded 8 million users as of late 2025. \n- The platform is now valued at $13.3 billion after a $400 million Series C funding round in August 2026. \n- It raised a total of $1.05 billion across 5 rounds of funding. \n- Lovable hit an annualized revenue of $500 million in June 2026. \n- Lovable.dev recorded 33.67 million visits in August 2026.\n- Uber, McKinsey, Microsoft, Nvidia, Klarna, and Zendesk are Lovable’s enterprise customers. \n- Lovable was named to the TIME100 Most Influential Companies 2026 list.\n\n...\n\n| Detail | Information |\n| --- | --- |\n| Former Name | GPT Engineer (rebranded in December 2024) |\n| Launch Date | November 2024 (Founded in 2023) |\n| Founders | Anton Osika & Fabian Hedin |\n| Headquarters | Stockholm, Sweden |\n| Number of Users | 8 million (as of late 2025) |\n| Revenue | $500 million ARR (June 2026) |\n| Valuation  | $13.3 billion  |\n| Number of Projects | Over 60 million |\n| Monthly Visitors | 33.67 million (August 2026) |\n\n...\n\n## How Many People Use Lovable?\n\nLovable has nearly 8 million users according to the latest data available**.** CEO Anton Osika confirmed these numbers to TechCrunch in November 2025. \n\nEarlier that year (in July 2025), the platform had 2.3 million active users and 180,000 paying subscribers. This is a huge jump of 5.7 million in just 5 months. \n\nLovable hasn’t shared updated user counts for 2026 yet, but what we do know is that over 200,000 new projects get built on the platform every day (as per TIME). The company also says users create more than 1 million new projects every week.\n\nBy August 2026, the total project count had crossed 60 million (an all-time record). All those apps and websites built on Lovable pull in about 900 million monthly visitors combined.\n\nOn the community side, Lovable has over 174,000 members in its Discord. The original GPT Engineer open-source repo still holds 55,000+ GitHub stars.\n\nSource: TechCrunch, Sacra, TIME100, GitHub, Discord"
+   ],
+   "score": null
+  },
+  {
+   "url": "https://sacra.com/c/lovable/",
+   "title": "Lovable revenue, valuation & funding | Sacra",
+   "published_at": "2025-01-18T10:40:52.000Z",
+   "author": null,
+   "highlights": [
+    "Lovable Cloud extends that experience into running the application. Launched in September 2025, it provides a built-in backend covering hosting, databases, storage, and authentication, reducing the infrastructure users need to configure separately. Users can also connect Supabase for backend services. The company reported more than 70 million projects created by September 2026, while Lovable-built applications received over 900 million monthly visits as of August.\n\n...\n\nThe software development market exceeds $500B annually, but only 1% of the population can code. Lovable's AI-powered platform has already demonstrated the ability to reduce development time by 90% while maintaining production-quality output. Their proprietary scaling law technology enables reliable handling of complex development tasks where other AI tools typically fail. Users now process more than 1 million new projects per week, with 25M+ total projects built in the platform's first year, signaling rapid adoption across both technical and non-technical users."
+   ],
+   "score": null
+  },
+  {
+   "url": "https://digitalbydefault.ai/blog/what-is-lovable-ai-app-builder-review-2026",
+   "title": "What Is Lovable? The AI App Builder Turning Non-Coders Into Founders — Full Review 2026",
+   "published_at": "2026-03-06T10:45:56.000Z",
+   "author": "Digital by Default Team",
+   "highlights": [
+    "As of March 2026, Lovable has over 8 million users, has powered the creation of 25 million+ projects, and is valued at $6.6 billion following a $330M Series B. For context, it launched publicly in November 2024."
+   ],
+   "score": null
+  },
+  {
+   "url": "https://signals.tw/articles/lovable-vibe-coding-app-builders/",
+   "title": "做 agent 做不贏巨頭？Lovable 用 4 億美元年營收回答｜矽基前沿 [Si]gnals",
+   "published_at": "2026-07-04T15:21:48.000Z",
+   "author": null,
+   "highlights": [
+    "2026 年的數據跟這個劇本對不上。\n\nLovable 在 2026 年 2 月年度經常性營收突破 4 億美元，單月增加約 1 億美元，全公司 146 人；約 800 萬用戶，平台上平均每天約 20 萬個專案被建立或更新。6 月，Forbes 報導它正以約 120 億美元估值洽談新融資。同一時期，Claude Code 自己的年化營收據報導約 25 億美元——兩邊同時在爆發。這不是你死我活，是兩個市場。\n...\nagent，是「描述完就拿到能用的東西」。TechCrunch"
+   ],
+   "score": null
+  },
+  {
+   "url": "https://techfastforward.com/articles/lovable-reached-400m-arr-faster-than-any-software-company-in-history-and-non-de",
+   "title": "Lovable Reached $400M ARR Faster Than Any Software Company... | TechFastForward",
+   "published_at": "2026-05-11T04:30:13.000Z",
+   "author": "TechFastForward Desk",
+   "highlights": [
+    "Key Takeaways\n\n- $400M ARR in 20 months, The fastest ARR growth in software history, doubling from $200M ARR in just three months\n- $330M Series B at $6.6B valuation, Led by CapitalG and Menlo Ventures with strategic backing from NVIDIA, Salesforce, Databricks, and Atlassian\n- 25 million projects with 100,000+ new daily, A training data flywheel that no competitor can replicate from scratch\n- 8 million users as of February 2026, Up from 2.3 million at Series B close, the largest non-developer software creation community ever assembled\n- Enterprise strategics as investors, Salesforce, Atlassian, and HubSpot investing signals Lovable is a structural force in enterprise software creation\n\n...\n\nLovable was founded in 2023 by Anton Osika and Fabian Hedin, who had previously built GPT Engineer, an open-source command-line app generator that accumulated 40,000 GitHub stars in two months, one of the fastest-growing repositories in GitHub history. In November 2024, they relaunched with a GUI-based product under the Lovable brand: an AI-powered full-stack app builder where users describe what they want in plain language and the platform generates working applications complete with database, authentication, and deployment. The \"vibe-coding\" paradigm it popularized means no formal programming knowledge required, you iterate by conversation until the product does what you need.\n\n...\n\n- 8 million users as of February 2026, Up from 2.3 million at Series B close, representing the largest non-developer software creation community ever assembled\n- Enterprise strategics are the investors, Salesforce, Atlassian, and HubSpot participating signals they view Lovable as a structural force in enterprise software creation, not a consumer trend to dismiss"
+   ],
+   "score": null
+  }
+ ]
+}

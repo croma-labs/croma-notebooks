@@ -1,0 +1,39 @@
+{
+ "query": "What is Meta's most recently reported number of family daily active people, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Meta’s most recently reported family daily active people (DAP) was 3.64 billion, averaging for September 2026, reported in Meta’s Q3 2026 results press release dated October 21, 2026. [1] Meta’s most recently reported full-time employees figure is not separately provided in the same source; it reports “headcount” (66,775) as of September 30, 2026, in that same Q3 2026 results press release. [1]",
+ "sources": [
+  {
+   "title": "Meta - Meta Reports Third Quarter 2026 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+  },
+  {
+   "title": "Meta Platforms reports family DAP of 3.64B on average for September, up 3% - TipRanks.com",
+   "url": "https://www.tipranks.com/news/the-fly/meta-platforms-reports-family-dap-of-3-64b-on-average-for-september-up-3-thefly-news"
+  },
+  {
+   "title": "Meta Platforms Says  Family Daily Active People Was 3.64B On Average For September 2026;  Headcount Was 66,775 As Of September 30, 2026, A Decrease Of 15% YoY; Co.  Not Providing A FY 2027 Revenue Outlook",
+   "url": "https://www.webull.com/news/15788116616520704"
+  },
+  {
+   "title": "Meta Platforms (META) KPIs: Family daily active people, Facebook daily active users, Facebook monthly active users | The Intraday",
+   "url": "https://theintraday.com/kpis/META"
+  },
+  {
+   "title": "Meta Q3 Revenue Rises 26% to $64.6 Billion | Quiver Quantitative",
+   "url": "https://www.quiverquant.com/news/Meta+Q3+Revenue+Rises+26%25+to+$64.6+Billion"
+  },
+  {
+   "title": "Meta - Meta Reports Second Quarter 2026 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx?mod=article_inline"
+  },
+  {
+   "title": "Meta - Meta Reports First Quarter 2026 Results",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/"
+  },
+  {
+   "title": "Meta Platforms (META) Operating Metrics & Breakdowns",
+   "url": "https://stockanalysis.com/stocks/meta/metrics/"
+  }
+ ],
+ "pages_analyzed": 8
+}

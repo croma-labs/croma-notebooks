@@ -1,0 +1,39 @@
+{
+ "query": "What is Reddit's most recently reported number of weekly active uniques, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Reddit’s most recently reported Weekly Active Uniques (WAUq) is 515.2 million (average for the three months ended September 30, 2026), reported in its “Reddit Reports Third Quarter 2026 Results” news release dated 2026-10-29 [1]. Reddit’s most recently reported full-time employees are not provided in the available search results; no source here states a latest full-time employee count with a reporting period [1][2][3][4].",
+ "sources": [
+  {
+   "title": "Reddit - Reddit Reports Third Quarter 2026 Results",
+   "url": "https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/"
+  },
+  {
+   "title": "exhibit992q326",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000114/exhibit992q326.htm"
+  },
+  {
+   "title": "Reddit - Reddit Investor Relations",
+   "url": "https://investor.redditinc.com/overview/default.aspx?languageid=1"
+  },
+  {
+   "title": "Reddit - Reddit Reports Second Quarter 2026 Results",
+   "url": "https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Second-Quarter-2026-Results/"
+  },
+  {
+   "title": "Reddit's Estimated Visits Fell 13% in October While the Platform Reported More Weekly Users | IBTimes UK",
+   "url": "https://www.ibtimes.co.uk/reddit-website-visits-search-referrals-user-growth-1831930"
+  },
+  {
+   "title": "RDDT Earnings Call Transcript — Fiscal Q2 2026",
+   "url": "https://exa.ai/library/markets/stocks/RDDT/earnings/FY2026/Q2/transcript"
+  },
+  {
+   "title": "Reddit Statistics 2026: Users, Revenue, Traffic and More",
+   "url": "https://resourcera.com/data/social/reddit-statistics/"
+  },
+  {
+   "title": "Reddit - Reddit Reports Fourth Quarter and Full Year 2025 Results; Announces $1 Billion Share Repurchase Program",
+   "url": "https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Announces-1-Billion-Share-Repurchase-Program/default.aspx"
+  }
+ ],
+ "pages_analyzed": 8
+}

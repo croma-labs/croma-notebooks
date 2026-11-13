@@ -1,0 +1,39 @@
+{
+ "query": "What is Canva's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Canva’s most recently reported monthly active users were “more than 265 million” for 2025, as reported by TechCrunch based on Canva’s statement about end-of-2025 results [1]. Canva’s most recently reported full-time employees figure available in the provided sources is not directly stated; the only employee-related disclosure is that a November 4, 2026 restructuring affected 1,271 people (about 22% of the workforce) without disclosing total headcount [2].",
+ "sources": [
+  {
+   "title": "Canva gets to $4B in revenue as LLM referral traffic rises | TechCrunch",
+   "url": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/"
+  },
+  {
+   "title": "Canva announces major job cuts after 'our hardest year yet'",
+   "url": "https://www.bbc.com/news/articles/cw77pg7neydmo"
+  },
+  {
+   "title": "Canva revenue, valuation & funding | Sacra",
+   "url": "https://sacra.com/c/canva/"
+  },
+  {
+   "title": "Canva",
+   "url": "https://en.wikipedia.org/wiki/Canva"
+  },
+  {
+   "title": "Canva in 2026: Revenue, Valuation, Funding, CEO - LeadWave",
+   "url": "https://getleadwave.io/dossier/canva"
+  },
+  {
+   "title": "Press Hub Update - Company info",
+   "url": "https://public.canva.site/canva-press-hub-company-information"
+  },
+  {
+   "title": "Canva",
+   "url": "https://linkedin.com/company/canva"
+  },
+  {
+   "title": "Canva Stock Price, Valuation & News",
+   "url": "https://stockanalysis.com/private/canva/"
+  }
+ ],
+ "pages_analyzed": 8
+}

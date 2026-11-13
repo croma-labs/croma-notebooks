@@ -1,0 +1,39 @@
+{
+ "query": "What is Duolingo's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Duolingo’s most recently reported monthly active users (MAUs) were 153.1 million for the three months ended September 30, 2026, reported in its Q3 2026 shareholder letter/quarterly results materials [1]. Duolingo’s most recently reported full-time employee count was “more than 900” employees as of December 31, 2025, reported in its Form 10-K for the year ended December 31, 2025 (filed February 27, 2026) [2].",
+ "sources": [
+  {
+   "title": "Q3FY26 Duolingo 9-30-26 Shareholder Letter",
+   "url": "https://investors.duolingo.com/static-files/e1ee336e-b024-486f-875c-afd722653067"
+  },
+  {
+   "title": "Form 10-K for Duolingo INC filed 02/27/2026",
+   "url": "https://investors.duolingo.com/static-files/f19d76fb-dee4-4f13-96ae-138ebfd0f2d3"
+  },
+  {
+   "title": "DUOL Q3 Earnings Miss Estimates, Revenues Beat, Shares Rise 25.3%",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/duol-q3-earnings-miss-estimates-121600346.html"
+  },
+  {
+   "title": "Duolingo Reports Third Quarter 2026 Results - Duolingo, Inc.",
+   "url": "https://investors.duolingo.com/news-releases/news-release-details/duolingo-reports-third-quarter-2026-results"
+  },
+  {
+   "title": "Duolingo Inc. (via Public) / Quarterly Report for Quarter Ending September 30, 2026 (Form 10-Q)",
+   "url": "https://pubt.io/view/D5DEDE029C81099C7286950B57340C42780F8C46"
+  },
+  {
+   "title": "Duolingo sells a better you. Daily active users say whether the promise is real. | AInvest",
+   "url": "https://www.ainvest.com/news/duolingo-sells-daily-active-users-promise-real-2611/"
+  },
+  {
+   "title": "Duolingo monthly active users worldwide 2026 | Statista",
+   "url": "https://www.statista.com/statistics/1248008/monthly-active-users-duolingo-worldwide/"
+  },
+  {
+   "title": "Document",
+   "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828026012513/q4fy25duolingo12-31x25shar.htm"
+  }
+ ],
+ "pages_analyzed": 8
+}

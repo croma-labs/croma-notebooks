@@ -1,0 +1,39 @@
+{
+ "query": "What is Telegram's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Telegram’s most recently reported monthly active users are “significantly more than 1 billion” monthly active users, reported by Pavel Durov on March 19, 2025 [1]. Telegram’s most recently reported full-time employee count in the provided sources is about 30 full-time employees, reported in March 2025 as “about 30 full-time employees” [2]. The primary sources are TASS (for the MAU figure) [1] and Contrary Research (for the employee figure) [2].",
+ "sources": [
+  {
+   "title": "Дуров: число активных пользователей Telegram в месяц превысило 1 млрд",
+   "url": "https://tass.ru/ekonomika/23447109"
+  },
+  {
+   "title": "Report: Telegram Business Breakdown & Founding Story | Contrary Research",
+   "url": "https://research.contrary.com/company/telegram"
+  },
+  {
+   "title": "Telegram founder Pavel Durov says app now has 1B users, calls WhatsApp a 'cheap, watered down imitation' | TechCrunch",
+   "url": "https://techcrunch.com/2025/03/19/telegram-founder-pavel-durov-says-app-now-has-1b-users-calls-whatsapp-a-cheap-watered-down-imitation/"
+  },
+  {
+   "title": "Telegram (software)",
+   "url": "https://en.m.wikipedia.org/wiki/Telegram_(software)"
+  },
+  {
+   "title": "Telegram global MAU 2025 | Statista",
+   "url": "https://www.statista.com/statistics/234038/telegram-messenger-mau-users/"
+  },
+  {
+   "title": "Telegram Founder Tells Tucker Carlson That Billion-User Platform Operates Lean, HR-Free With Only 30 Staff: 'I Am The Only Product Manager'",
+   "url": "https://www.benzinga.com/news/24/04/38311301/telegram-founder-tells-tucker-carlson-that-billion-user-platform-operates-lean-hr-free-with-only-30"
+  },
+  {
+   "title": "Hire 'The Best Of The Best Of The Best,' And Be Free From Taking Orders From Anyone | Eyerys",
+   "url": "https://www.eyerys.com/articles/people/opinions/hire-best-best-best-and-be-free-from-taking-orders"
+  },
+  {
+   "title": "Telegram hits 900m users and nears profitability as founder considers IPO – The Irish Times",
+   "url": "https://www.irishtimes.com/business/2024/03/11/telegram-hits-900m-users-and-nears-profitability-as-founder-considers-ipo/"
+  }
+ ],
+ "pages_analyzed": 8
+}

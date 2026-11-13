@@ -1,0 +1,39 @@
+{
+ "query": "What is Lovable's most recently reported number of users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Lovable’s most recently reported number of users is “8 million users,” reported by CEO Anton Osika to TechCrunch in November 2025 (period: “as of Nov 2025”) [1]. Lovable’s most recently reported number of full-time employees is 146 full-time employees, reported by chief revenue officer Ryan Meadows to TechCrunch in March 2026 as the headcount at the time of Lovable’s $400M ARR milestone in February 2026 (period: Feb 2026; reported in Mar 2026) [2].",
+ "sources": [
+  {
+   "title": "Lovable says it's nearing 8 million users as the year-old AI coding startup eyes more corporate employees | TechCrunch",
+   "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/"
+  },
+  {
+   "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees | TechCrunch",
+   "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/"
+  },
+  {
+   "title": "Lovable Deep Dive 2026: $13.3B Valuation, $600M+ ARR",
+   "url": "https://valueaddvc.com/blog/lovable-vibe-coding-app-builder-company-deep-dive"
+  },
+  {
+   "title": "How Lovable Reached $400M ARR | SaasFlywheel",
+   "url": "https://saasflywheel.io/blog/lovable-400m-arr-growth-teardown"
+  },
+  {
+   "title": "Lovable hit $500 million in revenue with 146 employees. Its new data shows who is actually building software now.",
+   "url": "https://thenextweb.com/news/lovable-build-economy-500m-arr-vibe-coding"
+  },
+  {
+   "title": "Lovable Hits $400M ARR as Enterprise Push and Lean Model Drive Rapid Scaling - TipRanks.com",
+   "url": "https://www.tipranks.com/news/private-companies/lovable-hits-400m-arr-as-enterprise-push-and-lean-model-drive-rapid-scaling"
+  },
+  {
+   "title": "Lovable Reports Rapid User Growth, Valuation Rises to $5 Billion | Scroll.media",
+   "url": "https://scroll.media/en/2025/11/13/lovable-valuation-5b/"
+  },
+  {
+   "title": "Lovable revenue, valuation & funding | Sacra",
+   "url": "https://sacra.com/c/lovable/"
+  }
+ ],
+ "pages_analyzed": 8
+}

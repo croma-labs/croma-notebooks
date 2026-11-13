@@ -1,0 +1,39 @@
+{
+ "query": "What is Spotify's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "As of the third quarter of 2026, Spotify reported 788 million monthly active users [1][2][3]. Additionally, the company reported a global workforce of 7,284 full-time employees as of the end of September 2026 [2][3][4]. These figures were provided in the company's Q3 2026 earnings report published on October 22, 2026 [1][2][3].",
+ "sources": [
+  {
+   "title": "Spotify Reports Third Quarter 2026 Earnings — Spotify",
+   "url": "https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/"
+  },
+  {
+   "title": "Spotify (SPOT) Q3 2026 Earnings Call Transcript | The Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/spotify-spot-q3-2026-earnings-call-transcript/"
+  },
+  {
+   "title": null,
+   "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036126040435/ef20084028_ex99-1.htm"
+  },
+  {
+   "title": "Form 6-K - Report of foreign issuer [Rules 13a-16 and 15d-16]",
+   "url": "https://fr.advfn.com/bourses/NYSE/SPOT/actualites/99540178/form-6-k-report-of-foreign-issuer-rules-13a-16"
+  },
+  {
+   "title": "Spotify",
+   "url": "https://en.wikipedia.org/wiki/Spotify"
+  },
+  {
+   "title": "Spotify hits record 300 million premium subscribers | Tribune | dailygazette.com",
+   "url": "https://www.dailygazette.com/tribune/spotify-hits-record-300-million-premium-subscribers/article_753fc856-d545-5183-ac8e-188b98f13289.html"
+  },
+  {
+   "title": "Spotify Technology (SPOT) — Company Research - ChartsView",
+   "url": "https://chartsview.co.uk/research/communication-services/spotify-technology-spot-research"
+  },
+  {
+   "title": "Spotify",
+   "url": "https://linkedin.com/company/spotify"
+  }
+ ],
+ "pages_analyzed": 8
+}

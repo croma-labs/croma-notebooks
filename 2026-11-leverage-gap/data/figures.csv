@@ -1,0 +1,32 @@
+company,metric,value,approx,as_of,basis,use,url,quote
+telegram,users,1000000000,1,2025-03,company-reported,chart,https://tass.com/economy/1930999,Telegram now has significantly over 1 billion monthly active users
+telegram,staff,100,1,2026-01,press report,chart,https://archive.ph/zi2cT,Telegram has fewer than 100 full-time staff
+telegram,staff,60,1,2023,company-reported,alt,https://news.jobshark.eu/remote-work/telegram-30-engineers-lean-team/,an agile core team of around 60
+telegram,staff,30,1,2024-04,company-reported,alt,https://www.benzinga.com/news/24/04/38311301/telegram-founder-tells-tucker-carlson-that-billion-user-platform-operates-lean-hr-free-with-only-30,Only 30 Staff
+snap,users,977000000,0,2026-09,company-reported,chart,https://www.sec.gov/Archives/edgar/data/1564408/000156440826000063/snapincq32026preparedrem.htm,Monthly Active Users grew to 977 million
+snap,staff,4540,0,2026-09,company-reported,chart,https://tsnmedia.org/snap-earnings/,"Snap counted 4,540 full-time employees at quarter-end"
+reddit,users,515200000,0,2026-09,company-reported,chart,https://investor.redditinc.com/news-events/news-releases/news-details/2026/Reddit-Reports-Third-Quarter-2026-Results/,increased 16% year-over-year to 515.2 million
+reddit,staff,2555,0,2025-12,company-reported,chart,https://fundamentalytics.com/stocks/rddt/employees/,"As of December 31, 2025, we had 2,555 employees"
+midjourney,users,19830000,0,2026-01,third-party estimate,chart,https://www.demandsage.com/midjourney-statistics/,19.83 million registered users on its Discord server
+midjourney,staff,60,1,2026-11,company-reported,chart,https://midjourney.com/,community-funded research lab of 60 people
+midjourney,staff,165,1,2026-06,third-party estimate,alt,https://www.reveliolabs.com/companies/midjourney/employees,approximately 165 total employees worldwide as of June 2026
+duolingo,users,153100000,0,2026-09,company-reported,chart,https://www.sec.gov/Archives/edgar/data/1562088/000162828026069692/duol-20260930.htm,we had approximately 153.1 million and 135.3 million MAUs
+duolingo,staff,900,1,2025-12,company-reported,chart,https://stockanalysis.com/stocks/duol/employees/,"Duolingo had 900 employees as of December 31, 2025"
+pinterest,users,661000000,0,2026-09,company-reported,chart,https://www.sec.gov/Archives/edgar/data/1506293/000150629326000151/q3-26xpressrelease.htm,increased 10% year over year to 661 million
+pinterest,staff,5192,0,2026-09,company-reported,chart,https://pubt.io/view/DC04207BE7CD2F6B62604560F843FA3E56B47892,"Headcount was 5,192"
+spotify,users,788000000,0,2026-09,company-reported,chart,https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/,rose by 11% Y/Y to 788 million
+spotify,staff,7284,0,2026-09,company-reported,chart,https://www.fool.com/earnings/call-transcripts/2026/10/22/spotify-spot-q3-2026-earnings-call-transcript/,"7,284 full-time employees globally at the end of September"
+lovable,users,8000000,1,2026-02,company-reported,chart,https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/,attract some 8 million users
+lovable,staff,300,1,2026-08,company-reported,chart,https://www.linkedin.com/posts/ludvig-widmark-444246230_today-we-announced-our-400m-series-c-at-activity-7493301643694981120-b8m6,We are still only around 300 people
+lovable,staff,146,0,2026-02,company-reported,alt,https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/,with just 146 employees
+meta,users,3640000000,0,2026-09,company-reported,chart,https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx,DAP was 3.64 billion on average for September 2026
+meta,staff,66775,0,2026-09,company-reported,chart,https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx,"Headcount was 66,775 as of September 30, 2026"
+canva,users,265000000,0,2025-12,company-reported,chart,https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/,more than 265 million monthly active users
+canva,staff,5500,1,2026-01,press report,chart,https://www.capitalbrief.com/article/canva-bucks-tech-employment-slowdown-with-intentional-global-hiring-spree-1fdb6959-29d7-42f1-abbe-876ad652bc53/,"Canva now employs more than 5,500 staff globally"
+nubank,users,143000000,0,2026-09,company-reported,chart,https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results,reaching 143 million globally
+nubank,staff,10027,0,2025-12,company-reported,chart,https://www.macrotrends.net/stocks/charts/NU/nu-holdings/number-of-employees,"total number of employees in 2025 was 10,027"
+revolut,users,80000000,0,2026-10,company-reported,chart,https://www.reuters.com/business/finance/revoluts-rise-become-europes-115-billion-big-bank-rival-2026-10-04/,website shows it has 80 million customers
+revolut,staff,12200,0,2025-12,company-reported,chart,https://www.sustainabilityreports.com/revolut/2025/annual-report-1,"discloses 12,200 year-end employees"
+revolut,staff,21207,0,2026-06,third-party estimate,alt,https://www.reveliolabs.com/companies/revolut/employees,"approximately 21,207 total employees worldwide as of June 2026"
+wise,users,18900000,0,2026-03,company-reported,chart,https://www.stocktitan.net/sec-filings/WSE/6-k-wise-group-plc-current-report-foreign-issuer-d79739d136b7.html,Active customers reached 18.9 million
+wise,staff,8800,0,2026-03,company-reported,chart,https://www.sustainabilityreports.com/wise/2026/annual-report-and-accounts,"over 8,800 people at year-end"

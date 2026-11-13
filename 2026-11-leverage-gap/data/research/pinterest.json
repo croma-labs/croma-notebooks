@@ -1,0 +1,39 @@
+{
+ "query": "What is Pinterest's most recently reported number of monthly active users, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Pinterest’s most recently reported monthly active users were 661 million for the quarter ended September 30, 2026, reported in its Q3 2026 results press release [1]. Pinterest’s most recently reported number of full-time employees was 5,265 as of December 31, 2025, reported in its 2025 annual report [2].",
+ "sources": [
+  {
+   "title": "Pinterest Announces Third Quarter 2026 Results, Delivers 12% Revenue Growth and Record Users",
+   "url": "https://s204.q4cdn.com/369458543/files/doc_earnings/2026/q3/earnings-result/Q3-2026-PressRelease.pdf"
+  },
+  {
+   "title": null,
+   "url": "https://s204.q4cdn.com/369458543/files/doc_financials/2025/ar/Annual-Report-and-Proxy_2026.pdf"
+  },
+  {
+   "title": "Pinterest Users (MAU) - FourWeekMBA",
+   "url": "https://fourweekmba.com/pinterest-users/"
+  },
+  {
+   "title": "Pinterest, Inc. (PINS) Revenue, Earnings & Financials · 10x Insights",
+   "url": "https://10xinsights.com/company/pinterest-inc-pins"
+  },
+  {
+   "title": "PINTEREST, INC. Files Annual Report | PINS Form 10-K",
+   "url": "https://www.stocktitan.net/sec-filings/PINS/10-k-pinterest-inc-files-annual-report-09e26728a910.html"
+  },
+  {
+   "title": "Document",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506293/000150629326000019/q4-25xpressrelease.htm"
+  },
+  {
+   "title": "Pinterest (PINS) financials: revenue, margins, cash flow and debt | The Filing Desk",
+   "url": "https://thefilingdesk.net/companies/pins/"
+  },
+  {
+   "title": "Pinterest",
+   "url": "https://linkedin.com/company/pinterest"
+  }
+ ],
+ "pages_analyzed": 8
+}

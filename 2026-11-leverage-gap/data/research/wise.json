@@ -1,0 +1,39 @@
+{
+ "query": "What is Wise's most recently reported number of active customers, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Wise reported 16.2 million active customers for the first half of fiscal year 2027, which ended September 30, 2026 [1][2]. Regarding its workforce, Wise most recently reported employing 11,852 people, as indicated by current professional network data [3].",
+ "sources": [
+  {
+   "title": null,
+   "url": "https://www.sec.gov/Archives/edgar/data/2099039/000095014226003018/eh260855086_6k.htm"
+  },
+  {
+   "title": "Wise Group plc H1 Results for Fiscal Year 2027",
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3402135/0/en/wise-group-plc-h1-results-for-fiscal-year-2027.html"
+  },
+  {
+   "title": "Wise",
+   "url": "https://linkedin.com/company/wiseaccount"
+  },
+  {
+   "title": "Wise Group plc reports Q2 FY27 Results | Thu, 10/15/2026 - 16:01",
+   "url": "https://owners.wise.com/news-releases/news-release-details/wise-group-plc-reports-q2-fy27-results"
+  },
+  {
+   "title": "Investor Topics | Wise Plc.",
+   "url": "https://owners.wise.com/investor-topics"
+  },
+  {
+   "title": "Wise Statistics 2026: AUM, Valuation, Revenues & More",
+   "url": "https://investingintheweb.com/digital-banks/wise-statistics/"
+  },
+  {
+   "title": "Form 6-K for Wise Group PLC filed 07/16/2026",
+   "url": "https://owners.wise.com/static-files/27b97dcb-a454-473c-8972-763b14c35fd0"
+  },
+  {
+   "title": "Wise Group plc reports Full Year 2026 Financial Results | Thu, 06/25/2026 - 16:01",
+   "url": "https://owners.wise.com/news-releases/news-release-details/wise-group-plc-reports-full-year-2026-financial-results"
+  }
+ ],
+ "pages_analyzed": 8
+}

@@ -1,0 +1,39 @@
+{
+ "query": "What is Revolut's most recently reported number of customers, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "As of November 13, 2026, Revolut reports having over 80 million retail customers worldwide [1][2][3]. This figure is provided by the company in its current communications [1].\n\nRegarding its workforce, Revolut reported 17,695 employees as of April 30, 2026 [4]. Another source, while noting a figure of 20,814, represents current platform-based reporting that may include broader staff counts [3]. The company's 2025 annual report cited a headcount of approximately 12,200 employees for the 2025 fiscal year [5][6].",
+ "sources": [
+  {
+   "title": "Annual Report 2025 | Revolut GB",
+   "url": "https://www.revolut.com/annual-report-2025/"
+  },
+  {
+   "title": "Revolut well-positioned to scale globally without damaging core markets: GlobalData - Retail Banker International",
+   "url": "https://www.retailbankerinternational.com/news/revolut-well-positioned-scale-globally/"
+  },
+  {
+   "title": "Revolut",
+   "url": "https://linkedin.com/company/revolut"
+  },
+  {
+   "title": "Revolut | Leadership, Appointments and Company Profile | Executive Moves",
+   "url": "https://executive-moves.com/company/revolut/"
+  },
+  {
+   "title": "Revolut Statistics 2026: Powerful Revenue Insights • CoinLaw",
+   "url": "https://coinlaw.io/revolut-statistics/"
+  },
+  {
+   "title": "Revolut Valuation, Funding & News",
+   "url": "https://stockanalysis.com/private/revolut/"
+  },
+  {
+   "title": "Revolut reports record profit of $2.3bn for 2025 as revenue surges to $6bn | Revolut United Kingdom",
+   "url": "https://www.revolut.com/news/revolut%5Freports%5Frecord%5Fprofit%5Fof%5F2%5F3bn%5Ffor%5F2025%5Fas%5Frevenue%5Fsurges%5Fto%5F6bn/"
+  },
+  {
+   "title": "Revolut number of customers: from 50m to 70m+ worldwide | Revolut United Kingdom",
+   "url": "https://www.revolut.com/blog/post/revolut-number-of-customers/"
+  }
+ ],
+ "pages_analyzed": 8
+}

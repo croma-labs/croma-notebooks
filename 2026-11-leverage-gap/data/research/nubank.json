@@ -1,0 +1,39 @@
+{
+ "query": "What is Nubank's most recently reported number of customers, and its most recently reported number of full-time employees? Give each figure with its reporting period and the primary source.",
+ "report": "Nubank reported 143 million customers globally as of the third quarter ending September 30, 2026 [1]. Regarding its workforce, the company reported 10,027 employees as of the 2025 reporting period [2]. Recent professional networking data indicates the company currently employs 12,755 people [3].",
+ "sources": [
+  {
+   "title": "Nu Holdings Ltd. Reports Third Quarter 2026  Financial Results",
+   "url": "https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-third-quarter-2026-financial-results"
+  },
+  {
+   "title": "Nubank - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nubank"
+  },
+  {
+   "title": "Nubank",
+   "url": "https://linkedin.com/company/nubank"
+  },
+  {
+   "title": "Nu Holdings Ltd. Form 6-K filed August 13, 2026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1691493/000129281426004222/nupr2q26_6k.htm"
+  },
+  {
+   "title": "Nubank posts a record $1.1 billion quarterly profit as revenue rises 37% and it reaches 143 million customers | MLQ.ai",
+   "url": "https://mlq.ai/news/nubank-posts-a-record-11-billion-quarterly-profit-as-revenue-rises-37-and-it-reaches-143-million-customers/"
+  },
+  {
+   "title": "Nu Holdings Q3’26 slides: record profit, 19% efficiency ratio By Investing.com",
+   "url": "https://www.investing.com/news/company-news/nu-holdings-q326-slides-record-profit-19-efficiency-ratio-93CH-5023730"
+  },
+  {
+   "title": "Nu Holdings Ltd. Reports First Quarter 2026 Financial Results",
+   "url": "https://nu.com/en/newsroom/company/nu-holdings-ltd-reports-first-quarter-2026-financial-results"
+  },
+  {
+   "title": null,
+   "url": "https://www.sec.gov/Archives/edgar/data/1691493/000129281426000501/nu20260225_6k.htm"
+  }
+ ],
+ "pages_analyzed": 8
+}
